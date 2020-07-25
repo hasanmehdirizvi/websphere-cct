@@ -8,7 +8,7 @@ WCCT provides a facility to check multiple server and resource configurations fo
 - potential inconsistent behavior between application servers in a cluster.
 - configuration creep.
 - migration of configuration from version to version.
-- file system differences.
+- file system differences. -My world
 
 ## Current WCCT reports include:
 - Application Servers
@@ -23,7 +23,7 @@ WCCT provides a facility to check multiple server and resource configurations fo
 - Servlet Cache instances
 - Service Integration Bus instances
 - Resource Environment Providers
-- Resource Environment Entries
+- Resourcfee Environment Entries
 - JMS Queues, Topics Providers and Activation Specifications, JAAS Auth Data
 - File system comparisons
 
