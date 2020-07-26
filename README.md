@@ -1,6 +1,4 @@
 [![License](https://img.shields.io/badge/License-ASL%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
-ADIL RAZA KHAN
-ADIL RAZA KHAN
 # Websphere CCT 
 
 **WebSphere Configuration Comparison Tool (WCCT)** is a light weight comparison utility for WebSphere Application Server traditional.  Use of this tool is a two step process.  The first step is gathering data from the configuration repository using the wsadmin script ConfigDump.py.  The second is generating HTML reports to display configuration differences.  Manually configured application servers and resources are likely to have configuration differences. Finding these differences by navigating to configuration panels is error prone and time consuming. Applications servers and resources should be periodically checked for configuration differences.  Note, please reference [WASConfigurationComparisonTool.pdf](WASConfigurationComparisonTool.pdf) for full documentation.  
